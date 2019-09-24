@@ -1,0 +1,3 @@
+- Ajouter une variable
+- Nettoyer le code
+- Faire une réunion
